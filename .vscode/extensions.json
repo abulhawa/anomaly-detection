@@ -5,6 +5,7 @@
     "charliermarsh.ruff",
     "ms-python.mypy-type-checker",
     "tamasfe.even-better-toml",
+    "renan-r-santos.pixi-code",
     "usernamehw.errorlens"
   ]
 }

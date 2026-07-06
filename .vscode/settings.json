@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.pixi/envs/default/bin/python",
+  "jupyter.kernels.trusted": [
+    "${workspaceFolder}/.pixi/envs/default/share/jupyter/kernels/python3/kernel.json"
+  ],
+  "ruff.nativeServer": "on",
+  "ruff.path": [
+    "${workspaceFolder}/.pixi/envs/default/bin/ruff"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticMode": "workspace",
+  "errorLens.enabled": true
+}

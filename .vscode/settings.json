@@ -11,5 +11,9 @@
   ],
   "python.analysis.typeCheckingMode": "basic",
   "python.analysis.diagnosticMode": "workspace",
-  "errorLens.enabled": true
+  "errorLens.enabled": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+  "notebook.output.textLineLimit": 20,
+  "notebook.output.scrolling": true
 }

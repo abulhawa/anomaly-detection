@@ -14,6 +14,6 @@
   "errorLens.enabled": true,
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 2000,
-  "notebook.output.textLineLimit": 20,
+  "notebook.output.textLineLimit": 30,
   "notebook.output.scrolling": true
 }

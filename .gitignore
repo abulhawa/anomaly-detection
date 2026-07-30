@@ -3,3 +3,22 @@
 !.pixi/config.toml
 
 data/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Notebook and development-tool caches
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

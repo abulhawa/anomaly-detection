@@ -4,6 +4,10 @@
 
 data/
 
+# Trained model checkpoints are local artifacts; keep the directory itself.
+models/*
+!models/.gitkeep
+
 # Python-generated files
 __pycache__/
 *.py[cod]

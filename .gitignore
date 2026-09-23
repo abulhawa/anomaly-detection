@@ -4,7 +4,7 @@
 
 data/
 
-# Trained model checkpoints are local artifacts; keep the directory itself.
+# Ignore new checkpoints by default; selected research artifacts are tracked explicitly.
 models/*
 !models/.gitkeep
 
